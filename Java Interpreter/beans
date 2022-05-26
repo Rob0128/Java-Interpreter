@@ -1,0 +1,7 @@
+add.(class)=\src\main\java\sml\instructions.AddInstruction
+sub.(class)=\src\main\java\sml\instructions.SubInstruction
+mul.(class)=\src\main\java\sml\instructions.MulInstruction
+div.(class)=\src\main\java\sml\instructions.DivInstruction
+out.(class)=\src\main\java\sml\instructions.OutInstruction
+lin.(class)=sml.instructions.LinInstruction
+
